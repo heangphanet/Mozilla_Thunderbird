@@ -22,7 +22,7 @@ ul {
   width: 290px;
   height: 100%;
   padding: 5px;
-  background-color: rgb(3, 53, 95);
+  background: linear-gradient(rgb(102, 78, 4), rgb(72, 166, 21));
   color: white;
   float: left;
 }
@@ -89,7 +89,7 @@ ul {
 .main-container .top-menu .header .title {
   font-size: 23px;
   font-weight: bold;
-  background: linear-gradient(90deg, #2b18ff, #7d00af, #973197);
+  background: linear-gradient(90deg, #cb5617, #7d00af, #973197);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -104,9 +104,9 @@ ul {
   border-radius: 10px;
   background-image: linear-gradient(
     50deg,
-    rgb(109, 11, 190),
-    rgb(18, 169, 229),
-    rgb(32, 85, 246)
+    rgb(215, 62, 11),
+    rgb(75, 7, 234),
+    rgb(204, 9, 226)
   );
   background-size: 300%;
   animation: glowing 1.5s linear infinite;
